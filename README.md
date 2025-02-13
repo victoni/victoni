@@ -12,4 +12,4 @@ You'll find tools, scripts, resources, and notes from my work as well as project
 - Coding
 
 ## Contact
-[![Mastodon](https://img.shields.io/badge/mastodon-vict0ni-512BE2?logo=mastodon)](https://infosec.exchange/@vict0ni) [![Twitter](https://img.shields.io/badge/twitter-vict0ni-38A1F3?logo=twitter)](https://twitter.com/vict0ni) [![ProtonMail](https://img.shields.io/badge/email-vict0ni@protonmail.com-812BE2?logo=protonmail)](mailto:vict0ni@protonmail.com) [![blog](https://img.shields.io/badge/blog-vict0ni.me-000000)](https://vict0ni.me)
+[![Mastodon](https://img.shields.io/badge/mastodon-vict0ni-512BE2?logo=mastodon)](https://infosec.exchange/@vict0ni) [![Twitter](https://img.shields.io/badge/twitter-vict0ni-38A1F3?logo=twitter)](https://twitter.com/vict0ni) [![ProtonMail](https://img.shields.io/badge/email-vict0ni@protonmail.com-812BE2?logo=protonmail)](mailto:vict0ni@protonmail.com) [![blog](https://img.shields.io/badge/blog-vict0ni.notion.site-vic)](https://vict0ni.notion.site/vic)
